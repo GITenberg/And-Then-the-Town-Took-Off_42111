@@ -1,0 +1,37 @@
+_repo: And-Then-the-Town-Took-Off_42111
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42111-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilson, Richard
+    alias: Wilson, Dick
+    birthdate: 1920
+    deathdate: 1987
+    gutenberg_agent_id: '34343'
+    url: http://www.gutenberg.org/2009/agents/34343
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
+description: 'The town of Superior, Ohio, certainly was living up to its name. In
+  what was undoubtedly the most spectacular feat of the century, it simply picked
+  itself up one night and rose two full miles above Earth. Radio messages stated simply
+  that Superior had seceded from Earth. But Don Cort, stranded on that rising town,
+  was beginning to suspect that nothing was simple about Superior except its citizens.
+  Now it was up to Cort: either find a way to anchor Superior ...'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Ohio -- Fiction'
+title: And Then the Town Took Off
+url: http://www.gutenberg.org/ebooks/42111
